@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T10:28:29 IST" name="Suite" finished-at="2024-12-15T10:29:01 IST" duration-ms="32240">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T10:28:29 IST" name="Test" finished-at="2024-12-15T10:29:01 IST" duration-ms="32240">
+      <class name="com.OrangeHrm.RunnerScripts.AdminStory.AdminModule">
+        <test-method is-config="true" signature="BrowserInitialization(java.lang.String)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:29 IST" name="BrowserInitialization" finished-at="2024-12-15T10:28:30 IST" duration-ms="393" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInitialization -->
+        <test-method is-config="true" signature="BrowserSetUp(java.lang.String)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:30 IST" name="BrowserSetUp" finished-at="2024-12-15T10:28:35 IST" duration-ms="5609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method signature="CheckAddComponents()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:35 IST" name="CheckAddComponents" finished-at="2024-12-15T10:28:39 IST" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAddComponents -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:39 IST" name="TearDown" finished-at="2024-12-15T10:28:41 IST" duration-ms="2082" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckAddComponents status=SUCCESS method=AdminModule.CheckAddComponents()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="BrowserSetUp(java.lang.String)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:41 IST" name="BrowserSetUp" finished-at="2024-12-15T10:28:45 IST" duration-ms="4106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method signature="CheckDashBoardIsDisplayed()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:45 IST" name="CheckDashBoardIsDisplayed" finished-at="2024-12-15T10:28:47 IST" duration-ms="2325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDashBoardIsDisplayed -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:47 IST" name="TearDown" finished-at="2024-12-15T10:28:50 IST" duration-ms="2792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckDashBoardIsDisplayed status=SUCCESS method=AdminModule.CheckDashBoardIsDisplayed()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="BrowserSetUp(java.lang.String)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:50 IST" name="BrowserSetUp" finished-at="2024-12-15T10:28:56 IST" duration-ms="5750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method signature="CheckEmpIsCreated()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:56 IST" name="CheckEmpIsCreated" finished-at="2024-12-15T10:28:59 IST" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckEmpIsCreated -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:28:59 IST" name="TearDown" finished-at="2024-12-15T10:29:01 IST" duration-ms="1994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckEmpIsCreated status=SUCCESS method=AdminModule.CheckEmpIsCreated()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="Reports()[pri:0, instance:com.OrangeHrm.RunnerScripts.AdminStory.AdminModule@4b013c76]" started-at="2024-12-15T10:29:01 IST" name="Reports" finished-at="2024-12-15T10:29:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+      </class> <!-- com.OrangeHrm.RunnerScripts.AdminStory.AdminModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
