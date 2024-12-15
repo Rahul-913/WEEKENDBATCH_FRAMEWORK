@@ -19,18 +19,6 @@
       </plugins>
     </pluginManagement>
   </build>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <dependencies>
 	  <dependency>
     <groupId>io.github.bonigarcia</groupId>
@@ -73,6 +61,5 @@
     <artifactId>extentreports</artifactId>
     <version>5.1.2</version>
 </dependency>
-
   </dependencies>
 </project>
